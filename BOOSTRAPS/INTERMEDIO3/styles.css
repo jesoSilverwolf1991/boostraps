@@ -1,0 +1,14 @@
+
+.lb-outerContainer,
+.lb-container,
+.lb-nav {
+  background-color: #fff;
+}
+
+.lb-caption {
+  color: #333;
+}
+
+.lb-number {
+  color: #888;
+}

@@ -1,0 +1,20 @@
+body {
+    padding-top: 56px;
+}
+
+@media (min-width: 768px) {
+    body {
+        padding-top: 76px;
+    }
+}
+
+.features-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+
+.subscription-section {
+    padding: 60px 0;
+    background-color: #343a40;
+    color: #ffffff;
+}

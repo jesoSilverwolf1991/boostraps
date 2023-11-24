@@ -1,0 +1,38 @@
+
+
+
+#registrationForm {
+    margin-top: 30px;
+
+  }
+  
+  
+  .form-control:invalid {
+    border: 1px solid #fff;
+  }
+  
+  .invalid-feedback {
+    display: none;
+    color: #fff
+  }
+  
+  .form-control:invalid + .invalid-feedback {
+    display: block;
+    color: #fff;
+
+  }
+
+  h2{
+    color: #fff;
+  }
+ body{
+    background-image: url(../CSS/imagenes/azul.jpg);
+ }
+
+ label{
+    color: #fff;
+ }
+
+
+
+  
